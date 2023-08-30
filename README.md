@@ -1,7 +1,7 @@
 # Lock_Indicator V1.0
 - This software was created for reason that my laptop doesn't have light to show status for "caps-lock and num-lock" on or off, that made me upset and confused somtimes.
 - This software will display icon at tray taskbar size 36 * 36 pixels and split into 2 parts will display a capital letter C or N,
-"**C at left side for caps-lock**" and "**N at right side for num-lock**"
+"**C at left side for caps-lock**" and "**N at right side for num-lock**" <img src="./Capture.JPG" width="130"/>
 
 Copyright <2023> COPYRIGHT Prapas K.
 
