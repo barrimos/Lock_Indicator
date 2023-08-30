@@ -1,13 +1,7 @@
 import pystray
-from PIL import Image, ImageDraw
+from PIL import Image
 import keyboard
 import ctypes
-
-
-
-def is_capslock_on():
-    return True if ctypes.WinDLL("User32.dll").GetKeyState(0x14) else False
-
 
 image_c = Image.open("./src/img/c.png")
 image_n = Image.open("./src/img/n.png")
